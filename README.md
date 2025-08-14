@@ -63,8 +63,3 @@ The goal is to gain actionable insights into loan disbursement patterns, repayme
 
 ---
 
-## 🚀 How to Run the Project
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/finance-loan-analysis.git
-   cd finance-loan-analysis
